@@ -160,7 +160,7 @@ scene.add(directionalLight)
 console.log(directionalLight);
 
 const directionalLightHelper = new THREE.DirectionalLightHelper(directionalLight, 1)
-scene.add(directionalLightHelper)
+// scene.add(directionalLightHelper)
 
 /**
  * Sizes
